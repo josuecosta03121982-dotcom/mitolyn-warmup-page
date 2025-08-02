@@ -52,6 +52,11 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				'mitolyn-pink': 'hsl(var(--mitolyn-pink))',
+				'mitolyn-blue': 'hsl(var(--mitolyn-blue))',
+				'mitolyn-orange': 'hsl(var(--mitolyn-orange))',
+				'mitolyn-purple': 'hsl(var(--mitolyn-purple))',
+				'mitolyn-yellow': 'hsl(var(--mitolyn-yellow))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
